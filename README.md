@@ -1,0 +1,84 @@
+# INI – How Are You
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+最後に会いに来てくれてさ
+君は頑張れって後にした部屋
+嘘みたいに離れた距離
+でも昨日会ったかのように
+覚えてるよ君の匂い
+Baby, keep be down for me
+Every day I've been
+doing the same thing
+生活の一部のように
+君を想うことがRoutine routine
+君待たせる俺馬鹿
+すぐ会いたい bored電話ばっか
+いつもの場所で会おうまた yeah
+新しいcrew neck sweat
+着て歩く道はwet
+頑張った今日はno寝坊
+青になった信号 Let it go
+無駄に過ぎた時間もう戻んないけど
+不安にさせた分以上
+I'll fill in the blanks
+高鳴る胸 飛行機の中
+계속 달려와 바빠도 난 너만 봐
+Ring ring ringどこにいんの?
+俺はもう君との待ち合わせ場所
+No no
+未読のままのLINE (For real)
+No no no
+Was it mayday? (For real)
+No no no どこにも行かないでBae
+あの日の約束は永遠に今も
+How are you? 久しぶり
+I'm good I'm good I'm good yeah
+うわの空だった日々はもう無い
+今すぐ Lean lean lean lean back
+いつもよりも
+Lean lean lean lean back
+待たせないから
+Lean lean lean lean back
+俺のもとに
+Lean lean lean lean back
+今何してんの?mm
+朝からコーヒーをdrip
+今どこいんの?mm
+飲みたい君と2人mm
+Did you miss me? I'm sorry
+君いないとso boring
+いつでもcall me baby 俺に
+Already I'm ready,
+so let's talk with me!!
+Oh oh oh 24/7止まってた記憶が
+Oh oh oh
+long time no see 動き出しそうだ
+Oh oh oh can you hear me
+ずっと一緒だよuntil we die
+Would you be my girl,
+if you like
+No no
+未読のままのLINE (For real)
+No no no
+Was it mayday? (For real)
+No no no
+どこにも行かないで bae
+あの日の約束は永遠に今も
+その声が恋しかったよ
+君はどうなの?How about you?
+今1番君に伝えたい事
+いつもありがとう
+Stay with me with me MINI
+How are you? 久しぶり
+I'm good I'm good I'm good yeah
+うわの空だった日々はもう無い
+今すぐ Lean lean lean lean back
+いつもよりも
+Lean lean lean lean back
+待たせないから
+Lean lean lean lean back
+俺のもとに
+Lean lean lean lean back
+```
