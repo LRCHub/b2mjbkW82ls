@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "How Are You",
+  "base_artist": "INI",
+  "createdAt": "2025-12-25T09:47:56.155716Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "How Are You True",
+      "artist": "Cage the Elephant",
+      "has_synced": true,
+      "path": "select/01_How_Are_You_True_Cage_the_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How Are You True",
+      "artist": "Cage The Elephant",
+      "has_synced": true,
+      "path": "select/02_How_Are_You_True_Cage_The_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How Are You?",
+      "artist": "David Byrne & Fatboy Slim feat. Nellie McKay",
+      "has_synced": true,
+      "path": "select/03_How_Are_You_David_Byrne_&_Fatboy_Slim_feat._Nellie_McKay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "How Are You?",
+      "artist": "Nellie McKay",
+      "has_synced": true,
+      "path": "select/04_How_Are_You_Nellie_McKay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How Are You / [Oh Claire]",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/05_How_Are_You___[Oh_Claire]_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "How Are You \u0000 Oh Claire",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/06_How_Are_You_\u0000_Oh_Claire_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "How Are You?",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/07_How_Are_You_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "How Are You - Live at Budokan",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/08_How_Are_You_-_Live_at_Budokan_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "How Are You? (Live at Budokan 1979) (Bonus track)",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/09_How_Are_You__(Live_at_Budokan_1979)_(Bonus_track)_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "How Are You Getting Home?",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/10_How_Are_You_Getting_Home_Sparks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "How Are You Getting Home ?",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/11_How_Are_You_Getting_Home_Sparks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How Are You Getting Home ?",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/12_How_Are_You_Getting_Home_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sickly Suite Part One: How Are You?",
+      "artist": "I Monster",
+      "has_synced": false,
+      "path": "select/13_Sickly_Suite_Part_One__How_Are_You_I_Monster.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sickly Suite Part 1 How Are You?",
+      "artist": "I Monster",
+      "has_synced": false,
+      "path": "select/14_Sickly_Suite_Part_1_How_Are_You_I_Monster.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How Are You",
+      "artist": "Bombay Bicycle Club",
+      "has_synced": true,
+      "path": "select/15_How_Are_You_Bombay_Bicycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "How Are You?",
+      "artist": "David Byrne feat. Fatboy Slim",
+      "has_synced": true,
+      "path": "select/16_How_Are_You_David_Byrne_feat._Fatboy_Slim.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "How Are You?",
+      "artist": "David Byrne",
+      "has_synced": true,
+      "path": "select/17_How_Are_You_David_Byrne.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "How Are You",
+      "artist": "Soko",
+      "has_synced": true,
+      "path": "select/18_How_Are_You_Soko.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "How Are You",
+      "artist": "Wavves",
+      "has_synced": true,
+      "path": "select/19_How_Are_You_Wavves.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "How are you",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_How_are_you_INI.txt"
+    }
+  ]
+}
